@@ -1,3 +1,4 @@
 # NeurospawN.github.io
 
-This is just like the other one, except this one you don't have to take several steps.
+This is a easier way to use the IllegalMaterial troll
+just copy and paste "https://neurospawn.github.io/index.html" into your search bar, then you're done.
